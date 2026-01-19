@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey! I'm Yvan Gabrieli
 
-<!--
-**yvangabrieli/yvangabrieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in Spain · 💻 Building backend projects with Java & Spring Boot · ☁️ Exploring SQL/NoSQL & APIs  
+I solve problems, manage teams, communicate in 4 languages… and (most of the time) I fix bugs 😅
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm up to
+🏗️ Creating backend APIs and microservices with Spring Boot  
+🧪 Practicing testing, clean architecture, and modular design  
+🌱 Learning more about scalable systems, cloud integration, and full-stack development  
+🎯 Goal: join a team where I can grow as a Backend Developer while bringing both technical and human skills
+
+---
+
+## 🛠️ My Toolbox
+**Code:** Java ☕ | SQL | NoSQL | JavaScript basics  
+**Frameworks:** Spring Boot | REST APIs  
+**Version Control & CI/CD:** Git | GitHub | Basic CI pipelines  
+**Databases:** MySQL | PostgreSQL | MongoDB  
+**Soft Skills:** Team leadership | Customer support | Problem-solving under pressure | Multilingual communication  
+
+---
+
+## 💡 Personal Touch
+> "I trained in backend, but after years solving client problems in four languages and managing teams under pressure, I can confidently say no bug scares me. If I survived hungry clients, I can handle microservices."
