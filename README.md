@@ -24,3 +24,10 @@ I solve problems, manage teams, communicate in 4 languages… and (most of the t
 
 ## 💡 Personal Touch
 > "I trained in backend, but after years solving client problems in four languages and managing teams under pressure, I can confidently say no bug scares me. If I survived hungry clients, I can handle microservices."
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [linkedin.com/in/yvan-gabrieli](https://www.linkedin.com/in/yvan-gabrieli)  
+- Email: yvan.gabrielik@gmail.com
+---
